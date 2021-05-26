@@ -1,0 +1,2 @@
+# curdoperations
+Springboot with restApi
